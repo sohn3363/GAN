@@ -1,2 +1,2 @@
 # GAN
-Generative Adversarial Networks Study
+- Generative Adversarial Networks Study
